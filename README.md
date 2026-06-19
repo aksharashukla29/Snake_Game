@@ -1,4 +1,4 @@
-#Snake game
+
 Snake Game 🐍
 
 A simple and interactive Snake Game developed using HTML, CSS, and JavaScript. The player controls a snake that moves around the game board to collect food and increase its length. The game ends if the snake collides with the walls or its own body.
@@ -31,5 +31,4 @@ Problem-solving skills
 Developed by Akshara Shukla
 BCA Student | Aspiring Software Developer 🚀
 
-Developed by Akshara Shukla
-BCA Student | Aspiring Software Developer 🚀
+
